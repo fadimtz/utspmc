@@ -1,2 +1,2 @@
 # utspms
-UTS 2022 PMC EL2008
+UTS PMC 2022
